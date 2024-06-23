@@ -58,6 +58,13 @@ $ npm run test:e2e
 $ npm run test:cov
 ```
 
+## 牛客API
+
+```bash
+#获取api内容
+GET http://localhost:3001/niuke  # 在./src/main.ts将3000改为3001
+```
+
 ## Support
 
 Nest is an MIT-licensed open source project. It can grow thanks to the sponsors and support by the amazing backers. If you'd like to join them, please [read more here](https://docs.nestjs.com/support).
